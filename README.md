@@ -51,7 +51,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryankr31&show_icons=true&locale=en&layout=compact" 
-       alt="Top Languages" width="350" style="margin:50px;" />
+       alt="Top Languages" width="350" />
 
   <img align="right" src="https://streak-stats.demolab.com/?user=Aryankr31" alt="Aryankr31"/>
 </div>
