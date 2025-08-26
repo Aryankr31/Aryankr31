@@ -47,16 +47,16 @@
 
 ---
 
-<h3 align="center">🚀 GIT.STATUS </h3>
+<h2 align="center">🚀 GIT.STATUS</h2>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryankr31&show_icons=true&locale=en&layout=compact" alt="Aryankr31"  width="400"/>
-</p>
+<!-- First row (2 side by side) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryankr31&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" style="margin:50px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryankr31&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" style="margin:50px;" />
+</div>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryankr31&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="505"/>
-</p
+<!-- Second row (centered single image) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryankr31&theme=react-dark&days=5" alt="Activity Graph" width="800" style="margin:15px 0;" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryankr31&theme=react-dark&days=5" alt="Activity Graph" width="600" />
-</p>
