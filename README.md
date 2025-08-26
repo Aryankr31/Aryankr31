@@ -50,11 +50,11 @@
 <h3 align="center">🚀 GIT.STATUS </h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryankr31&show_icons=true&locale=en&layout=compact" alt="Aryankr31" height="450" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryankr31&show_icons=true&locale=en&layout=compact" alt="Aryankr31"  width="400"/>
 </p>
 
 <p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryankr31&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="550" width="505"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryankr31&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="505"/>
 </p
 
 <p align="center">
