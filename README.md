@@ -56,7 +56,7 @@
   <img align="left" src="https://streak-stats.demolab.com/?user=Aryankr31" alt="Aryankr31"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryankr31&theme=react-dark&days=5" alt="Activity Graph" width="800" style="margin:15px 0;" />
 </div>
 
