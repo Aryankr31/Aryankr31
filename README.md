@@ -1,5 +1,5 @@
 <h1 align="center">I'm Aryan Kumar 👋 , Nice to see you too!!</h1>
-<h3 align="center">Engineer to Build not just to solve. 🚀</h3>
+<h3 align="center">Engineer to Build not just to solve 🚀</h3>
 
 <p align="center">
   <img alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
